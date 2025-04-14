@@ -1,4 +1,4 @@
-## 안녕하세요 👋
+## 안녕하세요 컴퓨터공학과 강민교입니다 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingyo77&theme=dark&show_icons=true)
 <!--
 **mingyo77/mingyo77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
